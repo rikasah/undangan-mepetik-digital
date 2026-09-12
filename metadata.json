@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Tigang Oton (Mepetik) Ryujin Satria",
+  "description": "Website undangan digital upacara Tigang Oton (Mepetik) Ryujin Satria di Balai Banjar Beng, Marga, Tabanan, Bali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
